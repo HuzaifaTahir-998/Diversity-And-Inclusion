@@ -4,8 +4,8 @@ Tools used: Microsoft Excel, Microsoft Power BI
 
 Steps includes:
 
-Import Data in Power BI
-Data Cleaning
-Data Processing
-Dashboard creation
+Import Data in Power BI,
+Data Cleaning,
+Data Processing,
+Dashboard creation, and 
 Insights from Analysis
