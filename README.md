@@ -19,7 +19,7 @@ This dashboard was developed in response to a request from the telecom's Retenti
   - Internet Service:
     Among active users, 27.31% do not have internet services.
     Of those who churned, only 6.05% opted not to have internet service, indicating that around 94% of customers who left were using internet services. 
-  - Tech Support: Among these 94%, 82.4% did not opt for tech support.
+  - Tech Support: Among these 94% of internet users, 82.4% did not opt for tech support.
 4. Billing Preferences:
   - The churn rate among customers who opted for paperless billing is 33.6%, compared to 16.3% for those who did not opt for paperless billing.
   - 1400 out of 1869 churned customers, or about 75%, had paperless billing.
